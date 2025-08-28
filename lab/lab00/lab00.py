@@ -3,7 +3,7 @@ def twenty_twenty_five():
     using only numbers and the +, *, and - operators (or ** and % if you'd like).
 
     >>> twenty_twenty_five()
-    2025
+    2025 + 2
     """
     return ______
 
